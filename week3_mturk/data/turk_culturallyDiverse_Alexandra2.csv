@@ -1,0 +1,46 @@
+Input.City_A,Input.City_B,Answer.culturally_diverse_cities.label
+"New York, NY","Los Angeles, CA",City 1
+"New York, NY","Los Angeles, CA",City 1
+"New York, NY","Los Angeles, CA",City 1
+"New York, NY","Chicago, IL",City 1
+"New York, NY","Chicago, IL",City 1
+"New York, NY","Chicago, IL",City 1
+"New York, NY","Washington, DC",City 1
+"New York, NY","Washington, DC",City 1
+"New York, NY","Washington, DC",City 2
+"New York, NY","Boston, MA",City 2
+"New York, NY","Boston, MA",City 1
+"New York, NY","Boston, MA",City 1
+"New York, NY","El Paso, TX",City 1
+"New York, NY","El Paso, TX",City 1
+"New York, NY","El Paso, TX",City 2
+"Los Angeles, CA","Chicago, IL",City 2
+"Los Angeles, CA","Chicago, IL",City 1
+"Los Angeles, CA","Chicago, IL",City 2
+"Los Angeles, CA","Washington, DC",City 1
+"Los Angeles, CA","Washington, DC",City 1
+"Los Angeles, CA","Washington, DC",City 2
+"Los Angeles, CA","Boston, MA",City 1
+"Los Angeles, CA","Boston, MA",City 2
+"Los Angeles, CA","Boston, MA",City 1
+"Los Angeles, CA","El Paso, TX",City 2
+"Los Angeles, CA","El Paso, TX",City 1
+"Los Angeles, CA","El Paso, TX",City 1
+"Chicago, IL","Washington, DC",City 2
+"Chicago, IL","Washington, DC",City 1
+"Chicago, IL","Washington, DC",City 1
+"Chicago, IL","Boston, MA",City 1
+"Chicago, IL","Boston, MA",City 1
+"Chicago, IL","Boston, MA",City 1
+"Chicago, IL","El Paso, TX",City 1
+"Chicago, IL","El Paso, TX",City 1
+"Chicago, IL","El Paso, TX",City 1
+"Washington, DC","Boston, MA",City 1
+"Washington, DC","Boston, MA",City 2
+"Washington, DC","Boston, MA",City 1
+"Washington, DC","El Paso, TX",City 2
+"Washington, DC","El Paso, TX",City 1
+"Washington, DC","El Paso, TX",City 1
+"Boston, MA","El Paso, TX",City 1
+"Boston, MA","El Paso, TX",City 1
+"Boston, MA","El Paso, TX",City 1
